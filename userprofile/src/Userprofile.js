@@ -61,7 +61,7 @@ function Userprofile() {
         </div>
 
         {/* Right Section */}
-        <div className="w-[320px] h-full bg-gray-800 bg-opacity-90 text-white rounded-lg flex items-center justify-center p-8">
+        <div className="w-[520px] h-full bg-gray-800 bg-opacity-90 text-white rounded-lg flex items-center justify-center p-8">
           <div className="text-center">
             <h2 className="text-2xl font-semibold mb-4">Order history</h2>
             <p>No previous orders.</p>
