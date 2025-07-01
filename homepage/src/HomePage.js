@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { ShoppingCart, User, ChevronRight, Leaf, Users, TrendingUp, Star } from 'lucide-react';
 
-export default function Homepage() {
+export default function Homeage() {
   const [scrollY, setScrollY] = useState(0);
   const [isVisible, setIsVisible] = useState({});
 
